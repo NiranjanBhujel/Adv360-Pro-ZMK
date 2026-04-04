@@ -10,14 +10,14 @@
         compatible = "zmk,combos";
         timeout-ms = <50>;
 
-        combo_minus {
-            key-positions = <37 38>;
-            bindings = <&kp MINUS>;
-        };
-
         combo_equal {
             key-positions = <31 32>;
             bindings = <&kp EQUAL>;
+        };
+
+        combo_minus {
+            key-positions = <41 42>;
+            bindings = <&kp MINUS>;
         };
     };
     behaviors {
