@@ -11,12 +11,12 @@
         timeout-ms = <50>;
 
         combo_minus {
-            key-positions = <31 32>;
+            key-positions = <37 38>;
             bindings = <&kp MINUS>;
         };
 
         combo_equal {
-            key-positions = <19 20>;
+            key-positions = <31 32>;
             bindings = <&kp EQUAL>;
         };
     };
