@@ -20,12 +20,12 @@
             bindings = <&kp MINUS>;
         };
 
-        combo_minus {
+        combo_left_bracket {
             key-positions = <42 43>;
             bindings = <&kp LBKT>;
         };
 
-        combo_minus {
+        combo_right_bracket {
             key-positions = <43 44>;
             bindings = <&kp RBKT>;
         };
