@@ -19,16 +19,6 @@
             key-positions = <41 42>;
             bindings = <&kp MINUS>;
         };
-
-        combo_left_bracket {
-            key-positions = <23 24>;
-            bindings = <&kp LBKT>;
-        };
-
-        combo_right_bracket {
-            key-positions = <24 25>;
-            bindings = <&kp RBKT>;
-        };
     };
     behaviors {
       #include "macros.dtsi"
